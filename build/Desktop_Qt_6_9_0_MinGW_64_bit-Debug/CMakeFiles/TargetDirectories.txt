@@ -1,0 +1,13 @@
+C:/Users/acer/OneDrive/Documents/Electrical_House_Wiring_System/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/Electrical_House_Wiring_System.dir
+C:/Users/acer/OneDrive/Documents/Electrical_House_Wiring_System/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/Electrical_House_Wiring_System_lupdate.dir
+C:/Users/acer/OneDrive/Documents/Electrical_House_Wiring_System/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/update_translations.dir
+C:/Users/acer/OneDrive/Documents/Electrical_House_Wiring_System/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/Electrical_House_Wiring_System_lrelease.dir
+C:/Users/acer/OneDrive/Documents/Electrical_House_Wiring_System/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/release_translations.dir
+C:/Users/acer/OneDrive/Documents/Electrical_House_Wiring_System/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/acer/OneDrive/Documents/Electrical_House_Wiring_System/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/acer/OneDrive/Documents/Electrical_House_Wiring_System/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/acer/OneDrive/Documents/Electrical_House_Wiring_System/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/acer/OneDrive/Documents/Electrical_House_Wiring_System/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/acer/OneDrive/Documents/Electrical_House_Wiring_System/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/acer/OneDrive/Documents/Electrical_House_Wiring_System/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/Electrical_House_Wiring_System_autogen_timestamp_deps.dir
+C:/Users/acer/OneDrive/Documents/Electrical_House_Wiring_System/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/Electrical_House_Wiring_System_autogen.dir

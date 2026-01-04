@@ -1,0 +1,115 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-12b3b17da180e3070aaf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Electrical_House_Wiring_System",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Electrical_House_Wiring_System::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Electrical_House_Wiring_System-Debug-997d3d282bb0f8caf748.json",
+					"name" : "Electrical_House_Wiring_System",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Electrical_House_Wiring_System_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Electrical_House_Wiring_System_autogen-Debug-489e57216eb40d8b8b83.json",
+					"name" : "Electrical_House_Wiring_System_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Electrical_House_Wiring_System_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Electrical_House_Wiring_System_autogen_timestamp_deps-Debug-da9006715da8bcf63a1b.json",
+					"name" : "Electrical_House_Wiring_System_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Electrical_House_Wiring_System_lrelease::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Electrical_House_Wiring_System_lrelease-Debug-abe0d4e01928d985e692.json",
+					"name" : "Electrical_House_Wiring_System_lrelease",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Electrical_House_Wiring_System_lupdate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Electrical_House_Wiring_System_lupdate-Debug-3b8a46da971bf34cbf56.json",
+					"name" : "Electrical_House_Wiring_System_lupdate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "release_translations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-release_translations-Debug-fe583147867956ecc810.json",
+					"name" : "release_translations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "update_translations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-update_translations-Debug-89c26764806261dfc5d1.json",
+					"name" : "update_translations",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/acer/OneDrive/Documents/Electrical_House_Wiring_System/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/acer/OneDrive/Documents/Electrical_House_Wiring_System"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

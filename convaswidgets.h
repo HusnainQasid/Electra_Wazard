@@ -1,0 +1,4 @@
+#ifndef CONVASWIDGETS_H
+#define CONVASWIDGETS_H
+
+#endif // CONVASWIDGETS_H

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="0" column="0">
+     <widget class="Gridwidget" name="widget" native="true">
+      <widget class="QComboBox" name="devicecomboBox">
+       <property name="geometry">
+        <rect>
+         <x>610</x>
+         <y>160</y>
+         <width>111</width>
+         <height>21</height>
+        </rect>
+       </property>
+       <item>
+        <property name="text">
+         <string>wall</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>socket</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>main board</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>fan</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>bulb</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>redtricted</string>
+        </property>
+       </item>
+      </widget>
+      <widget class="QPushButton" name="previewPathButton&#10;">
+       <property name="geometry">
+        <rect>
+         <x>610</x>
+         <y>0</y>
+         <width>111</width>
+         <height>24</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>Draw Wire</string>
+       </property>
+      </widget>
+      <widget class="QPushButton" name="autoPlaceFansButton">
+       <property name="geometry">
+        <rect>
+         <x>610</x>
+         <y>40</y>
+         <width>111</width>
+         <height>24</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>Place Fan</string>
+       </property>
+      </widget>
+      <widget class="QPushButton" name="connectFansButton">
+       <property name="geometry">
+        <rect>
+         <x>610</x>
+         <y>80</y>
+         <width>111</width>
+         <height>24</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>Connect Fans</string>
+       </property>
+      </widget>
+      <widget class="QPushButton" name="lightUpButton">
+       <property name="geometry">
+        <rect>
+         <x>610</x>
+         <y>120</y>
+         <width>111</width>
+         <height>24</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>Light Up bulbs</string>
+       </property>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>Gridwidget</class>
+   <extends>QWidget</extends>
+   <header location="global">gridwidget.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>
